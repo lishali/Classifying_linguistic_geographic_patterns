@@ -26,8 +26,7 @@ The responses of these latter questions, recorded in the form of multiple choice
 observations analyzed in this paper. Faceted graphs of the responses for each question is provided on the
 survey website maintained by Bert Vaux.
 
-The raw data can be found in **data**, code in **data_analysis_code**, and detailed report of the data analysis in 
-[writeup](writeup.pdf)
+
 
 Conclusions 
 ======================
@@ -40,5 +39,16 @@ on the learned clusters to further validate the clusters generated. The interpre
 by the PCA can also be examined in more detail to help weigh the more useful/polarizing questions in the
 survey.
 
+The raw data can be found in **data**, code in **data_analysis_code**, and detailed report of the data analysis as well as the plots below are explained in [writeup](writeup.pdf)
+
+
 ![](/figures/p95_7.png)
+
+![](/figures/pam9.png)
+
+![](/figures/L1_11.png)
+
+![](/figures/shoes_facet.png)
+
+
 
