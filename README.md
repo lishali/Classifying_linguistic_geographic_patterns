@@ -40,3 +40,5 @@ on the learned clusters to further validate the clusters generated. The interpre
 by the PCA can also be examined in more detail to help weigh the more useful/polarizing questions in the
 survey.
 
+![](.../Classifying_linguistic_geographic_patterns/figures/p95_7.png)
+
