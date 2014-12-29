@@ -1,0 +1,4 @@
+load("/Users/LishaLi/Desktop/215A/Lab2/question_data.RData")
+load("/Users/LishaLi/Desktop/215A/Lab2/df.Rda")
+load("/Users/LishaLi/Desktop/215A/Lab2/finalbinarized.Rda")
+load("/Users/LishaLi/Desktop/215A/Lab2/choropleth_county_mode.Rda")
