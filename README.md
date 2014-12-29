@@ -2,12 +2,11 @@ Introduction
 =======================
 
 Naturally, the relative cohesion of meaning in language is a product of mutual agreement in usage, that is
-at least a useful working model. In this paper we examine in particular how dierences in language use is
+at least a useful working model. In this project we examine in particular how differences in language use is
 related to geography. Of course, language use is tethered to where we live, that is, we communicate often
 with people in physical proximity and are thus inclined to agree on meaning in word choice with those
 around us. Given this relation, we play the role of computation dialectometrists, and ask: how are our
 dialect differences reflected in geographic divisions?
-======================
 
 Dialectromy, the study of dialect dierences, grew much from the simple (though eective) counting of
 overlapping features technique of its inception. Feature selection, developing metrics for similarity through
